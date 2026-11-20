@@ -1,0 +1,43 @@
+
+[
+  {
+    "question": "What is the monthly payroll cutoff date?",
+    "expected_keywords": ["21st"]
+  },
+  {
+    "question": "How many hours of office attendance are required?",
+    "expected_keywords": ["9 hours"]
+  },
+  {
+    "question": "Can employees regularize attendance for future dates?",
+    "expected_keywords": ["future", "cannot"]
+  },
+  {
+    "question": "When is attendance regularization applicable for a daily shortage?",
+    "expected_keywords": ["less than 2 hours"]
+  },
+  {
+    "question": "What are the biometric requirements for regularization?",
+    "expected_keywords": ["less than 9 hours", "greater than 7 hours"]
+  },
+  {
+    "question": "Within how many days should regularization be performed?",
+    "expected_keywords": ["15 days"]
+  },
+  {
+    "question": "When can an employee apply for work from home regularization?",
+    "expected_keywords": ["biometric attendance", "not available"]
+  },
+  {
+    "question": "When can an employee use the Missed to Swipe option?",
+    "expected_keywords": ["in-time", "out-time"]
+  },
+  {
+    "question": "What documents or details are needed before submitting a claim?",
+    "expected_keywords": ["claim details", "proof"]
+  },
+  {
+    "question": "What is the normal timecard hours limit for India-based associates and others?",
+    "expected_keywords": ["9 hours", "8 hours"]
+  }
+]
